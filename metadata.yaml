@@ -1,0 +1,31 @@
+_repo: A-Pal-utcai-fiuk-Regeny-kis-diakok-szamara_69689
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Molnár, Ferenc
+    aliases:
+    - Molnar, Ferenc
+    - Neumann, Ferenc
+    birthdate: 1878
+    deathdate: 1952
+    gutenberg_agent_id: '5844'
+    url: http://www.gutenberg.org/2009/agents/5844
+    wikipedia: https://en.wikipedia.org/wiki/Ferenc_Moln%C3%A1r
+description: ''
+gutenberg_issued: '2023-01-02'
+identifiers:
+  gutenberg: '69689'
+language: hu
+pgterms:marc905: 20221217233106molnr
+pgterms:marc906: '1916'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Google
+  Books Library Project
+publication_note: 'Hungary: Franklin-Társulat,1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A Pál-utcai fiúk: Regény kis diákok számára'
+url: http://www.gutenberg.org/ebooks/69689
