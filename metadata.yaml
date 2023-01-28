@@ -1,5 +1,8 @@
 _repo: A-Pal-utcai-fiuk-Regeny-kis-diakok-szamara_69689
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69689-h/images/cover.jpg
 creator:
   author:
     agent_name: Molnár, Ferenc
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5844
     wikipedia: https://en.wikipedia.org/wiki/Ferenc_Moln%C3%A1r
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69689#A-Pal-utcai-fiuk-Regeny-kis-diakok-szamara
 gutenberg_issued: '2023-01-02'
 identifiers:
   gutenberg: '69689'
